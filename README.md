@@ -1,4 +1,5 @@
 # Task-Killer
+Dersi kaynatmak için oluşturulan bir python yazılımı.
 
 # Ne işe yarıyor?
 Bu program çoğu tarayıcıları ve sunum dosyalarını tespit eder ve ettiği zaman açılmaya çalışan programı geri kapatır.
