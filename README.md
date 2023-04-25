@@ -1,6 +1,6 @@
 # Task-Killer
 
-Ne işe yarıyor?
+###Ne işe yarıyor?
 Bu program çoğu tarayıcıları ve sunum dosyalarını tespit eder ve ettiği zaman açılmaya çalışan programı geri kapatır.
 
 Programı çalıştırmadan önce ilk defa indirdiyseniz "libraries.bat" adlı dosyayı çalıştırın.
